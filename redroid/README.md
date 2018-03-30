@@ -55,5 +55,5 @@ This is a tool for personal use, so I tailored it to what was simplest for me at
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](../LICENSE.md) file for details
 
